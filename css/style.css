@@ -132,4 +132,12 @@ section{
 .cards{
 	display: flex;
 	justify-content: center;
+	align-items: center;
+}
+.card{
+	width: 20%;
+}
+.card img{
+	height: 300px;
+	width: 200px;
 }
